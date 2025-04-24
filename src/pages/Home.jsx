@@ -77,7 +77,7 @@ const Home = () => {
           <a href="https://github.com/Rajeevkr18" target="_blank" rel="noopener noreferrer">
             <FaGithub size={28} />
           </a>
-          <a href="https://instagram.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/_iam_rajeev" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={28} />
           </a>
           <a href="https://linkedin.com/in/rajeevk18" target="_blank" rel="noopener noreferrer">
