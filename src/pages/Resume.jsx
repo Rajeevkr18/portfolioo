@@ -24,7 +24,7 @@ const Resume = () => {
           View or download my complete resume to learn more about my skills, experience, and education.
         </p>
         <a
-          href="https://drive.google.com/file/d/1I_EmMFQC3wXxdfgVesY35YQMchGZe_Wh/preview" // Make sure this file is in the public folder
+          href="https://drive.google.com/file/d/1VD_WBPpw-Veia8SsC5endf1M74fsdM8i/view" // Make sure this file is in the public folder
           target="_blank"
           rel="noopener noreferrer"
           className="resume-button"
